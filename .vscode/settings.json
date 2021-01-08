@@ -1,0 +1,5 @@
+{
+    "kite.startKiteEngineOnStartup": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "git.ignoreLimitWarning": true
+}
